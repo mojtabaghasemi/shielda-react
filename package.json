@@ -1,0 +1,25 @@
+{
+  "name": "shielda-react",
+  "version": "1.0.0",
+  "description": "Official React and Next.js component for Shielda Captcha (کامپوننت رسمی ری‌اکت و نکست‌جی‌اس شیلدا کپچا)",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "shielda",
+    "captcha",
+    "react",
+    "nextjs",
+    "security",
+    "bot-protection",
+    "component",
+    "iran"
+  ],
+  "author": "Shielda Team <support@shielda.ir> (https://shielda.ir)",
+  "license": "MIT",
+  "homepage": "https://shielda.ir",
+  "peerDependencies": {
+    "react": ">=16.8.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": ">=16.8.0 || ^18.0.0 || ^19.0.0"
+  }
+}
